@@ -7,15 +7,15 @@ El siguiente documento brinda una breve explicación del proyecto **MyStoreApp**
 Este proyecto se divide en dos secciones principales:
 
 
-    1. Back-end: Encargado de gestionar todo lo relacionado con el servidor, configuración de bases de datos y autenticación.
+1. Back-end: Encargado de gestionar todo lo relacionado con el servidor, configuración de bases de datos y autenticación.
 
-    Para ello, se utilizaron las siguientes tecnologías:
+   Para ello, se utilizaron las siguientes tecnologías:
 
-        * Django
+   * Django
         
-        * Django REST framework
+    * Django REST framework
         
-        * Django CORS Headers
+    * Django CORS Headers
 
     Todo esto, bajo el lenguaje de programación Python.
 
@@ -23,9 +23,9 @@ Este proyecto se divide en dos secciones principales:
 
     Se utilizaron las siguientes tecnologías:
 
-        * React
+    * React
         
-        * Bootstrap
+    * Bootstrap
 
     Todo esto, bajo los lenguajes de programación **JavaScript** y el lenguaje de etiquetas **HTML5**.
 
@@ -33,14 +33,14 @@ Este proyecto se divide en dos secciones principales:
 
 Para ello seguir los pasos proporcionados:
 
-    * Clonar o descargar el repositorio
+* Clonar o descargar el repositorio
 
-    * Tener instalado python 3.12
+* Tener instalado python 3.12
 
-    * Dentro de la carpeta backend crear el entorno virtual
+* Dentro de la carpeta backend crear el entorno virtual
 
     ```
-    # Lnux / MacOS
+    # Linux / MacOS
     python3 -m venv venv
 
     # Windows
